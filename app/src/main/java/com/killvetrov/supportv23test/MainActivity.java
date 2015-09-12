@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View view) {
         switch (view.getId()) {
             case R.id.btn_buttocks:
-                // Handle button press
+                // Обрабатываем нажатие на кнопку "Ягодицы" :)
                 break;
         }
     }
